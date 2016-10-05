@@ -1,0 +1,21 @@
+﻿빌드 시작: 2016-07-13 오전 11:31:43
+     1>2 노드의 "D:\develop\VisualStudio_Project\Abstract-Factory\ConsoleApplication1\ConsoleApplication1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\develop\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\develop\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp Playstation.cpp PlaystationStore.cpp
+         PlaystationStore.cpp
+         Playstation.cpp
+         ConsoleApplication1.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         D:\develop\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\develop\VisualStudio_Project\Abstract-Factory\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\develop\VisualStudio_Project\Abstract-Factory\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\develop\VisualStudio_Project\Abstract-Factory\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         Debug\Playstation.obj
+         Debug\PlaystationStore.obj
+         Debug\stdafx.obj
+         ConsoleApplication1.vcxproj -> D:\develop\VisualStudio_Project\Abstract-Factory\Debug\ConsoleApplication1.exe
+     1>"D:\develop\VisualStudio_Project\Abstract-Factory\ConsoleApplication1\ConsoleApplication1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.62
